@@ -83,7 +83,3 @@ Siga as instruções no prompt para fazer perguntas ao sistema.
 ## Contribuição / Contributing
 
 Pull requests e issues são bem-vindos. Adicione instruções adicionais aqui conforme necessário.
-
-## License
-
-Adicione a licença desejada ou arquivo `LICENSE` se aplicável.
