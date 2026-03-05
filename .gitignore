@@ -1,0 +1,29 @@
+#.gitignore for RAGPDF project
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment files
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Chroma DB and binary shards
+db/
+*.sqlite3
+*.bin
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+
+# Testing / coverage
+.pytest_cache/
+.coverage

@@ -1,0 +1,10 @@
+python-dotenv
+langchain
+langchain-openai
+langchain-google-genai
+langchain-deepseek
+langchain-community
+langchain-chroma
+chromadb
+openai
+pypdf
